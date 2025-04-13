@@ -1,0 +1,106 @@
+<resources>
+    <string name="googleClientApi">619024085235-lq8dpqnjdq78du83dbop7fpgqhmd2sp1.apps.googleusercontent.com</string>
+    <string name="baseUrl">https://comus.site/</string>
+    <string name="app_name">com-us</string>
+    <string name="title_home">홈</string>
+    <string name="title_cntdesc_home">홈</string>
+    <string name="title_question">질문</string>
+    <string name="title_cntdesc_question">질문리스트</string>
+    <string name="title_profile">마이</string>
+    <string name="title_cntdesc_profile">프로필</string>
+
+    <string name="theme_all">전체</string>
+    <string name="theme_default">테마</string>
+    <string name="theme_daily">일상</string>
+    <string name="theme_school">학교</string>
+    <string name="theme_friend">친구</string>
+    <string name="theme_family">가족</string>
+    <string name="theme_interest">관심사</string>
+    <string name="theme_random">랜덤</string>
+    <string name="theme_random_question">랜덤 질문</string>
+
+    <string name="percent">%1$d%%</string>
+
+    <string name="home_title_greeting_user_hi">안녕하세요, %1$s님 %2$s</string>
+    <string name="home_sub_greeting">오늘도 대화 나눠봐요~!</string>
+    <string name="home_title_start_conversation">대화를 시작해 볼까요?</string>
+    <string name="home_sub_today_conversation_today">오늘</string>
+    <string name="home_sub_today_conversation_minute">%1$d분</string>
+    <string name="home_sub_today_conversation_did">대화했어요.</string>
+    <string name="home_percent_conversation">%1$d%</string>
+    <string name="home_title_our_block">우리의 대화 블럭</string>
+    <string name="home_title_no_block">아직 나눈 대화가 없어요!</string>
+    <string name="home_level">%1$d단계</string>
+    <string name="home_hint_no_block">아직 나눈 대화가 없어요!</string>
+    <string name="home_title_check_progress">대화 진행률 확인하기</string>
+    <string name="home_theme_sub_random_description">주제가 떠오르지 않을 때\n사용해요</string>
+
+    <string name="home_cntdesc_profile">프로필</string>
+    <string name="home_cntdesc_notification">알림</string>
+    <string name="home_cntdesc_tempimage">임시 이미지</string>
+
+    <string name="home_theme_fraction">%1$d/%2$d</string>
+    <string name="home_theme_percent">%1$d%%</string>
+
+    <string name="question_title">%1$s 질문 리스트</string>
+    <string name="question_title_question">질문</string>
+    <string name="question_title_question_count">%1$d개</string>
+    <string name="question_title_align_all">전체</string>
+    <string name="question_title_align_complete">대화 완료</string>
+
+    <string name="question_detail_title_question">질문</string>
+    <string name="question_detail_button_answer_before"><u>이전 답변 보기</u></string>
+    <string name="question_detail_button_complete">완료하기</string>
+    <string name="question_detail_msg_when_server_failure">질문을 준비중이에요!</string>
+
+    <string name="question_answer_title_question">질문1</string>
+    <string name="question_answer_title_answer">답변</string>
+    <string name="question_answer_title_sign_descp">수형설명</string>
+    <string name="question_answer_button_follow_along">따라해보기</string>
+
+    <string name="theme_question_list_title">%1$s 질문 리스트</string>
+    <string name="title_activity_question_list_item">QuestionListItem</string>
+
+    <string name="question_sample_question">질문 텍스트</string>
+    <string name="question_sample_answer">답변 텍스트</string>
+    <string name="question_sample_descrp">수형 설명 텍스트</string>
+
+    <string name="question_follow_along_title_follow">따라해보세요!</string>
+    <string name="question_follow_along_sign_descp">수형설명</string>
+    <string name="question_follow_along_button_complete">완료하기</string>
+    <string name="question_follow_along_server_failure">블럭 획득에 실패했어요</string>
+
+    <string name="question_collect_block_title">대화 블럭 획득!</string>
+
+    <string name="question_result_toolbar_title">답변 결과 보기</string>
+    <string name="question_result_title_question">질문</string>
+    <string name="question_result_title_answer">답변</string>
+    <string name="question_result_selected_answer">선택: %1$s</string>
+    <string name="question_result_sign_refer_to">내가 참고한 수화 자료</string>
+    <string name="question_result_sign_descp">수형설명</string>
+    <string name="question_result_button_complete">완료하기</string>
+
+    <string name="question_previous_title_question">질문</string>
+    <string name="question_previous_conv_count">대화 %1$d회 완료</string>
+    <string name="question_previous_answer">답변</string>
+    <string name="question_previous_answer_count">%1$d개</string>
+
+    <string name="profile_username">%1$s님</string>
+    <string name="profile_edit_profile"><u>프로필 수정</u></string>
+    <string name="profile_conv_statistics">대화통계</string>
+    <string name="profile_time_taken">소요시간</string>
+    <string name="profile_time_taken_minute">%1$d분</string>
+    <string name="profile_conv_count">대화 수</string>
+    <string name="profile_conv_count_count">%1$d개</string>
+    <string name="profile_conv_type">대화 유형</string>
+    <string name="profile_conv_type_choice">선택형</string>
+    <string name="profile_conv_type_interactive">대화형</string>
+
+
+    <string name="server_data_error">데이터를 불러오는데 실패했어요</string>
+    <string name="server_try_again_later">잠시후 다시 시도해주세요</string>
+
+    <string name="toolbar_back">뒤로 가기</string>
+    <string name="random_question_title">랜덤 질문</string>
+
+</resources>

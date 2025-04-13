@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:contentDescription="@string/title_cntdesc_home"
+        android:title="@string/title_home"/>
+
+    <item
+        android:id="@+id/navigation_questions"
+        android:icon="@drawable/ic_list"
+        android:contentDescription="@string/title_cntdesc_question"
+        android:title="@string/title_question"/>
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_user"
+        android:contentDescription="@string/title_cntdesc_profile"
+        android:title="@string/title_profile"/>
+
+</menu>
